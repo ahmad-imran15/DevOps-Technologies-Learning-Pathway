@@ -1,5 +1,5 @@
 # DevOps-Technologies-Learning-Pathway
-This repository is associated with two insightful blogs that showcase my journey in
+This repository is associated with two insightful blogs that showcase my journey I learned during the DevOps Course FALL-2024, taught by @Saim Safdar.
 
 # Blog Summary
 
@@ -11,11 +11,11 @@ https://medium.com/@ahmad-imran/nu-timetable-simplifying-timetable-management-fo
 In this blog, I delve into Kubernetes application management using Helm. It covers the basics of Helm charts, their role in simplifying application deployment, and their integration within Kubernetes environments. The article serves as a guide for leveraging Helm to efficiently manage containerized applications, making it a valuable resource for developers and DevOps enthusiasts.
 
 # Learning
-# 1. DevOps Fundamentals
+## 1. DevOps Fundamentals
 Gained an understanding of DevOps culture and principles, including CI/CD, automation, and observability.
 Explored successful case studies and the roadmap for DevOps adoption.
 
-# 2. Version Control with Git and GitHub
+### 2. Version Control with Git and GitHub
 Learned Git workflows such as feature branching, Gitflow, and trunk-based development.
 Mastered collaboration techniques through branching, merging, and code review.
 Contributed to open-source projects and understood their community impact.
@@ -66,9 +66,11 @@ This pathway not only expanded my technical expertise but also equipped me with 
 
 # Blogs
 1. Simplifying Timetable Management for FAST (NUCES) University Students and Faculty
-  read here https://medium.com/@ahmad-imran/nu-timetable-simplifying-timetable-management-for-fast-university-students-and-faculty-aa058232e162
-2. Mastering Kubernetes Application Management with Helm
-read here https://medium.com/@ahmad-imran/mastering-kubernetes-application-management-with-helm-41a524a4db42
+
+ 👉 read here [NU Timetable App](https://medium.com/@ahmad-imran/nu-timetable-simplifying-timetable-management-for-fast-university-students-and-faculty-aa058232e162)
+3. Mastering Kubernetes Application Management with Helm
+ 
+ 👉 read here [Link](https://medium.com/@ahmad-imran/mastering-kubernetes-application-management-with-helm-41a524a4db42)
 3. Automating Node.js Deployment with GitHub Actions: A Complete Guide
 Read here
 view Repository 
