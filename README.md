@@ -72,5 +72,5 @@ This pathway not only expanded my technical expertise but also equipped me with 
  👉 read here [Link](https://medium.com/@ahmad-imran/mastering-kubernetes-application-management-with-helm-41a524a4db42)
 
 ### 3. Automating Node.js Deployment with GitHub Actions: A Complete Guide
- 👉 Read here
- 👉 view Repository 
+ 👉 Read here [Link](https://medium.com/@ahmad-imran/automating-node-js-deployment-with-github-actions-a-complete-guide-c4633f3859ff)
+ 👉 view Repository [Link](https://github.com/ahmad-imran15/github-actions-learninng/tree/main)
