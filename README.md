@@ -66,11 +66,12 @@ This pathway not only expanded my technical expertise but also equipped me with 
 
 # Blogs
 ### 1. Simplifying Timetable Management for FAST (NUCES) University Students and Faculty
- 👉 read here [Link](https://medium.com/@ahmad-imran/nu-timetable-simplifying-timetable-management-for-fast-university-students-and-faculty-aa058232e162)
+ 👉 Read here [Link](https://medium.com/@ahmad-imran/nu-timetable-simplifying-timetable-management-for-fast-university-students-and-faculty-aa058232e162)
 
 ### 2. Mastering Kubernetes Application Management with Helm
- 👉 read here [Link](https://medium.com/@ahmad-imran/mastering-kubernetes-application-management-with-helm-41a524a4db42)
+ 👉 Read here [Link](https://medium.com/@ahmad-imran/mastering-kubernetes-application-management-with-helm-41a524a4db42)
 
 ### 3. Automating Node.js Deployment with GitHub Actions: A Complete Guide
  👉 Read here [Link](https://medium.com/@ahmad-imran/automating-node-js-deployment-with-github-actions-a-complete-guide-c4633f3859ff)
- 👉 view Repository [Link](https://github.com/ahmad-imran15/github-actions-learninng/tree/main)
+ 
+ 👉 View Repository [Link](https://github.com/ahmad-imran15/github-actions-learninng/tree/main)
