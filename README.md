@@ -65,12 +65,12 @@ Analyzed case studies of successful DevOps transformations.
 This pathway not only expanded my technical expertise but also equipped me with hands-on experience to tackle real-world challenges in modern software development.
 
 # Blogs
-1. Simplifying Timetable Management for FAST (NUCES) University Students and Faculty
-
+###1. Simplifying Timetable Management for FAST (NUCES) University Students and Faculty
  👉 read here [Link](https://medium.com/@ahmad-imran/nu-timetable-simplifying-timetable-management-for-fast-university-students-and-faculty-aa058232e162)
-3. Mastering Kubernetes Application Management with Helm
- 
+
+###3. Mastering Kubernetes Application Management with Helm
  👉 read here [Link](https://medium.com/@ahmad-imran/mastering-kubernetes-application-management-with-helm-41a524a4db42)
-3. Automating Node.js Deployment with GitHub Actions: A Complete Guide
+
+###3. Automating Node.js Deployment with GitHub Actions: A Complete Guide
  👉 Read here
  👉 view Repository 
